@@ -1,0 +1,49 @@
+/**Card**/
+
+.column-lg-40 img {
+    width: 100%;
+    
+}
+
+.card {
+    width: 80%;
+    margin: auto;
+    vertical-align: top;
+    margin-bottom: 12.5rem
+    
+}
+
+article {
+position: relative;
+}
+
+.content {
+    width: 80%;
+    margin: auto;
+}
+
+.article2 .content {
+    padding-left: 8rem;
+    margin-top: -2rem;
+}
+
+.article1 h2 {
+    position: absolute;
+    top: 2%;
+    left: 6%;
+
+}
+
+.article2 h2 {
+    position: absolute;
+    top: -3%;
+    left: 46%;
+
+}
+
+.article3 h2 {
+    position: absolute;
+    top: 2%;
+    left: 6%;
+
+}

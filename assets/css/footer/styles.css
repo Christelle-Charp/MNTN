@@ -1,0 +1,48 @@
+/**footer**/
+
+footer .container {
+    width: 85%;
+    margin: auto;
+}
+
+footer .column-lg-49 li {
+    list-style: none;
+    padding-top: 1.5rem;
+}
+
+footer .column-lg-49:last-child {
+    padding-left: 8rem;
+}
+
+footer .column-lg-40 {
+    padding-bottom: 5rem;
+}
+
+footer .column-lg-59 {
+    vertical-align: top;
+    margin-top: 0;
+}
+
+footer h5 {
+    padding-bottom: 1.5rem;
+}
+
+footer a {
+    text-transform: capitalize;
+}
+
+footer p:last-child {
+    font-family: 'Gilroy-Medium';
+    font-size: 1.125rem;
+    line-height: 2rem;
+    opacity: 0.5;
+    padding-top: 7rem;
+}
+
+footer .row {
+    position: relative;
+}
+
+footer span {
+    display: block;
+}

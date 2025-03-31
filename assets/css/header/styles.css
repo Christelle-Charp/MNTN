@@ -1,0 +1,36 @@
+/**header**/
+
+header .container {
+    width: 92%;
+    height: 1.6rem;
+    margin: auto;
+    margin-top: 2rem;
+    position: absolute;
+    top: 0%;
+    left: 4%;
+}
+
+.logo img {
+    width: 1.5rem;
+    height: 1.5rem;
+
+}
+
+nav li {
+    display: inline-block;
+    padding-right: 2rem;
+}
+
+nav {
+    text-align: center;
+}
+
+.connexion img, .connexion p {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.connexion {
+    text-align: right;
+}
+
